@@ -161,7 +161,7 @@ A: Python 3 isn’t installed or not in PATH. Install Python 3, then try again.
 A: Re-run the install step:
 
 ```bash
-python3 -m pip install trimesh pillow numpy shapely
+python3 -m pip install trimesh pillow numpy shapely scipy networkx rtree
 ```
 
 **Q: “No such file or directory: Test.stl / lumenx_gen3.json”**
