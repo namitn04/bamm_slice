@@ -50,13 +50,13 @@ Your Terminal line should now end with `…/bamm_slice-main$`
 In Terminal, paste this and press **Enter**:
 
 ```bash
-python3 -m pip install trimesh pillow numpy shapely
+python3 -m pip install trimesh pillow numpy shapely scipy networkx rtree
 ```
 
 * If that doesn’t work, try:
 
   ```bash
-  pip install trimesh pillow numpy shapely
+  pip install trimesh pillow numpy shapely scipy networkx rtree
   ```
 * If you see a lot of text — that’s normal. Wait until it finishes.
 
