@@ -25,7 +25,7 @@ I’ve included two files so you can test it right away:
 2. In Terminal, type:
    ```bash
    python3 --version
-````
+   ````
 
 * If you see something like `Python 3.10.9`, you’re good.
 * If you get an error, ask someone or ChatGPT to help install Python 3 (it’s quick).
@@ -155,7 +155,7 @@ python3 repair_and_slice.py -h
 ## Common problems (and quick fixes)
 
 **Q: “command not found: python3”**
-A: Python 3 isn’t installed or not in PATH. Install Python 3 (ask a teammate), then try again.
+A: Python 3 isn’t installed or not in PATH. Install Python 3, then try again.
 
 **Q: “No module named …” or “module not found”**
 A: Re-run the install step:
