@@ -1,0 +1,6 @@
+{
+  "name": "LumenX_Gen3",
+  "build_mm":       [68.0, 38.0, 100.0],
+  "pixel_pitch_mm": 0.035,
+  "white_is_expose": true
+}

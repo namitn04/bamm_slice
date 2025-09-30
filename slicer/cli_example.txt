@@ -1,0 +1,4 @@
+pip install trimesh pillow numpy shapely
+
+python3 repair_and_slice.py --stl 13x3_24WellPlate_Slab.stl --profile lumenx_gen3.json --layer-mm 0.1 --aa 1 --out ./13x3_Slab
+
